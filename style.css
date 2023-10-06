@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  background-color: #BA55D3;
+  color: #0f141e;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  max-width: 750px;
+  margin: auto;
+  padding-top: 30px;
+}
+
+a{
+    color: black;
+text-decoration: none;
+}
+
+.Denchik{
+   width: flex;
+   border-radius: 28px;
+}
+
+.info {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.info-text {
+    margin-left: 40px;
+}
+
+.bg-yellow{
+    background: #fff9dc;
+}
+
+.bg-green{
+background: #e5ffe7;
+}
+
+.bg-red{
+    background: #ffe5e5;
+}
+
+.card {
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.card h2 {
+    margin-bottom: 10px;
+}
+
+ul {
+    padding: 0.20px;
+}
+
+ol {
+    color: #86898f;
+}
+
+table{
+    width: 100%;
+}
+
+table td {
+    padding-bottom: 10px;
+}
+
+.form-group{
+    display: block;
+    font-size: 14px;
+    color: #86898f;
+}
