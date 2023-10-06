@@ -71,6 +71,13 @@ table td {
     padding-bottom: 10px;
 }
 
+@media screen (max-width 400px) {
+.Denchik {
+  width: 100%;
+  height: 100%;
+}
+}
+
 .form-group{
     display: block;
     font-size: 14px;
